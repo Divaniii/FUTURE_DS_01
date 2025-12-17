@@ -22,7 +22,7 @@ The dashboard helps business stakeholders understand sales performance, trends, 
 - Microsoft Excel
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 📁 Files in This Repository
 - `Ecommerce_Sales_Dashboard.pbix` – Power BI dashboard file
